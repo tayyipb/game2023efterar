@@ -1,0 +1,6 @@
+TODO
+
+- Make HomingBomb.png follow players around (closest player at any given time) in 0.5 seconds intervals
+- If it touches someone, it explodes (find explosion picture)
+- Or if it touches someone, they lose X points
+- Spawn lava tiles X tiles behind the ball (similar to Snake)
